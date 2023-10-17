@@ -1,0 +1,2 @@
+This contains the s3 bucket connectors & the meta process..Basically the files and configurations
+stored here will be very common in all parts of the application
